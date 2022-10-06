@@ -17,16 +17,16 @@
         "top":500
     },
     {
-        "id":4,
-        "playerName":"Virat" ,
+        "id":3,
+        "playerName":"Rohit" ,
         "range":[1,2,3,4,5,6],
         "seletedState":" ",
         "left":100,
         "top":100
     },
     {
-        "id":5,
-        "playerName":"Virat" ,
+        "id":4,
+        "playerName":"Dhoni" ,
         "range":[1,2,3,4,5,6],
         "seletedState":" ",
         "left":160,
