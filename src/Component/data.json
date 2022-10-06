@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "playerName":"Hardik",
+        "range":[1,2,3,4],
+        "seletedState":" ",
+        "left":1000,
+        "top":100
+    
+    },
+    {
+        "id":2,
+        "playerName":"Virat" ,
+        "range":[1,2,3,4,5,6],
+        "seletedState":" ",
+        "left":800,
+        "top":500
+    },
+    {
+        "id":4,
+        "playerName":"Virat" ,
+        "range":[1,2,3,4,5,6],
+        "seletedState":" ",
+        "left":100,
+        "top":100
+    },
+    {
+        "id":5,
+        "playerName":"Virat" ,
+        "range":[1,2,3,4,5,6],
+        "seletedState":" ",
+        "left":160,
+        "top":160
+    }
+   
+]
